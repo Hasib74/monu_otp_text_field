@@ -4,6 +4,10 @@ version: 1.0.0
 author: Monu
 homepage:
 
+platforms:
+  ios:
+  android:
+
 environment:
   sdk: '>=3.2.0 <4.0.0'
   flutter: ">=1.17.0"
