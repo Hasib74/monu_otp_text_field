@@ -1,12 +1,9 @@
 name: monu_otp_field
 description: " A Flutter package providing a sleek OTP verification UI with customizable styling and user-friendly callbacks."
-version: 1.0.0
+version: 1.0.2
 author: Monu
 homepage:
 
-platforms:
-  ios:
-  android:
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
