@@ -51,14 +51,14 @@ MonuOtpTextField(
 ```
 
 # Widget Properties
-numberOfFields: Set the number of OTP input fields.
-borderColor: Customize the color of the input field border.
-showFieldAsBox: Choose to show the input field as a box (true) or as a dash (false).
-filled: Decide whether the input field should be filled.
-cursorColor: Set the color of the cursor.
-handleControllers: Use this callback to work with the list of TextEditingController instances.
-onCodeChanged: Implement this callback for when the OTP code changes.
-onSubmit: Define this callback for when all fields are filled, and the OTP is submitted.
+1. **numberOfFields**: Set the number of OTP input fields.
+2. **borderColor**: Customize the color of the input field border.
+3. **showFieldAsBox**: Choose to show the input field as a box (true) or as a dash (false).
+4. **filled**: Decide whether the input field should be filled.
+5. **cursorColor**: Set the color of the cursor.
+6. **handleControllers**: Use this callback to work with the list of TextEditingController instances.
+7. **onCodeChanged**: Implement this callback for when the OTP code changes.
+8. **onSubmit**: Define this callback for when all fields are filled, and the OTP is submitted.
 
 
 # Customization
